@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: testConfig.AccountTransferTest
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 187.455 sec - in testConfig.AccountTransferTest
